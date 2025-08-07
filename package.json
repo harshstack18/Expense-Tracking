@@ -6,7 +6,7 @@
     "build": "pnpm install && next build",
     "dev": "next dev",
     "lint": "next lint",
-    "start": "next start",
+    "start": "next ",
     "render-build": "pnpm install --no-frozen-lockfile && next build"
   },
   "dependencies": {
